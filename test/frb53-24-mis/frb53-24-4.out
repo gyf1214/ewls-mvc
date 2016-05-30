@@ -1,0 +1,20 @@
+seed: 1464579596
+optimal mvc: 1239 in 0 steps, 0.091876 seconds
+optimal mvc: 1237 in 0 steps, 0.091929 seconds
+optimal mvc: 1235 in 0 steps, 0.091953 seconds
+optimal mvc: 1233 in 1 steps, 0.09199 seconds
+optimal mvc: 1232 in 6 steps, 0.092045 seconds
+optimal mvc: 1231 in 7 steps, 0.092058 seconds
+optimal mvc: 1230 in 19 steps, 0.092137 seconds
+optimal mvc: 1229 in 20 steps, 0.092151 seconds
+optimal mvc: 1228 in 36 steps, 0.092273 seconds
+optimal mvc: 1227 in 80 steps, 0.092519 seconds
+optimal mvc: 1226 in 203 steps, 0.093257 seconds
+optimal mvc: 1225 in 250 steps, 0.093538 seconds
+optimal mvc: 1224 in 347 steps, 0.094202 seconds
+optimal mvc: 1223 in 4910 steps, 0.125378 seconds
+optimal mvc: 1222 in 47317 steps, 0.392121 seconds
+optimal mvc: 1221 in 1760054 steps, 9.91993 seconds
+finish in 40000000 steps, 187.519 seconds
+mis: 6 40 62 87 106 137 167 183 198 218 248 281 309 340 377 399 422 439 469 485 527 541 569 600 622 629 653 689 717 738 747 788 816 829 844 876 895 922 939 972 985 1038 1061 1087 1128 1132 1168 1198 1223 1226 1272
+mis size: 51
